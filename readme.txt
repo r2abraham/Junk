@@ -1,5 +1,6 @@
-readme.txt, cr 24 april 2015 by rha on tin
+readme.txt in abraham/.../Git/Junk, cr 25 april 2015 by rha
 
-trying a dummy repo
+This is the experimental project used for the Git+Immersion tutorial.
+(Changed in the original and pushed to shared)
 
 end
